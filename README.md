@@ -56,4 +56,4 @@ The main principles of the system are:
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   https://github.com/KIFAKER86H/Working-Space-Booking-System-with-QR-Code.git
